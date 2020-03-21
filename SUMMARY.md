@@ -7,12 +7,14 @@
 * [Course plan](https://pdf.his.se/kursutbplan/kursplan.aspx?ktanmkod=92475&kttermin=20201)
 * [TimeEdit](https://cloud.timeedit.net/his/web/schemaeng/ri167XQQ040Z50Qv97032gZ6y5Y7200Q5Y91Y5.html)
 * [Discord](https://discord.gg/4pRu7Ss)
+* [YouTube](https://www.youtube.com/playlist?list=PLAxZA8hcpPLLjcktHtsZiACBvfAhUp6AF)
 
 ## Guides
 
 * [LenaSYS](guides/it351g_guide_lenasys.md)
 * [Assignments \(sv. duggor\)](guides/it351g_guide_assignments.md)
 * [Buffer time \(sv. respittid\)](guides/it351g_guide_buffer-time.md)
+* [Add git hash to APK file name](guides/it351g_guide_gitcommithashapk.md)
 
 ## Tools & Services
 
